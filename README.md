@@ -1,10 +1,5 @@
 # CodeLabs :
 Programming Simplified
-# We have Branches :
-Website Code :https://github.com/QMiNt/CodeLabs
-<br />AI model : https://github.com/invinciblebansal/NLP-using-Word2Vec
-<br/>APP Source Code : https://github.com/ritz-17/code-labs
-
 # Case Study: CODELABS  : problem statement
 
 Data structures and algorithms (DSA) are fundamental concepts in computer science that help in designing
